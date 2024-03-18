@@ -1,3 +1,3 @@
-# Hello (to my) World <img src="https://media.tenor.com/dhfraztxBo8AAAAi/globe-joypixels.gif" width="45px"/>
+# Hello (to my) World <img src="https://media.tenor.com/dhfraztxBo8AAAAi/globe-joypixels.gif" width="35px"/>
 
 
